@@ -1,6 +1,6 @@
-### Problem statement 35 - Intelligent Classification of Rural Infrastructure Projects 
+## Problem statement 35 - Intelligent Classification of Rural Infrastructure Projects 
 
-## The Challenge: 
+### The Challenge: 
 
 The Pradhan Mantri Gram Sadak Yojana (PMGSY) is a flagship rural development 
 program in India, initiated to provide all-weather road connectivity to eligible 
