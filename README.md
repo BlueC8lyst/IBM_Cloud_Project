@@ -24,7 +24,7 @@ The Pradhan Mantri Gram Sadak Yojana (PMGSY) Project Classification aims to buil
 
 ### Model Evaluation
 
-Accuracy: 0.92
+- Accuracy: 0.92
 
-F1-Score: 0.89
+- F1-Score: 0.89
 
