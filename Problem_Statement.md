@@ -1,4 +1,4 @@
-## Problem statement 35 - Intelligent Classification of Rural Infrastructure Projects 
+## Problem statement - Intelligent Classification of Rural Infrastructure Projects 
 
 ### The Challenge: 
 
